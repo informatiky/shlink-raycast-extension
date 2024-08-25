@@ -18,3 +18,8 @@ You can create, edit and delete short URLs, get a QR-Code and tracking pixel for
 ![Shlink Raycast Extension in Raycast menu](https://raw.githubusercontent.com/jag-k/shlink-raycast-extension/main/screenshots/shlink-4.jpg)
 ![Shlink Raycast Extension in Raycast menu](https://raw.githubusercontent.com/jag-k/shlink-raycast-extension/main/screenshots/shlink-5.jpg)
 ![Shlink Raycast Extension in Raycast menu](https://raw.githubusercontent.com/jag-k/shlink-raycast-extension/main/screenshots/shlink-6.jpg)
+
+
+## Disclaimer
+
+This is a copy of the original code published on Raycast! The original repository is located on Github at [https://github.com/jag-k/shlink-raycast-extension](Shlink-raycast-extension) and was originally developed by [jag-k](https://github.com/jag-k). 

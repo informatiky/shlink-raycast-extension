@@ -2,9 +2,9 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "shlink",
   "title": "Shlink",
-  "description": "Manage your shlink addresses",
+  "description": "Manage your shlink links",
   "icon": "extension_icon.png",
-  "author": "jag-k",
+  "author": "informatiky",
   "categories": [
     "Productivity",
     "Data",

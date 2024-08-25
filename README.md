@@ -8,7 +8,7 @@ You can create, edit and delete short URLs, get a QR-Code and tracking pixel for
 
 ## Installation
 
-[![Install Shlink Raycast Extension](https://www.raycast.com/jag-k/shlink/install_button@2x.png)](https://raycast.com/jag-k/shlink)
+Use the following [https://shlink.io/documentation/api-docs/authentication/](instructions) to get a Shlink API key and add it to the extension.
 
 ## Screenshots
 
@@ -22,4 +22,4 @@ You can create, edit and delete short URLs, get a QR-Code and tracking pixel for
 
 ## Disclaimer
 
-This is a copy of the original code published on Raycast! The original repository is located on Github at [https://github.com/jag-k/shlink-raycast-extension](Shlink-raycast-extension) and was originally developed by [jag-k](https://github.com/jag-k). 
+This is a copy of the original code published on Raycast! I, informatiky, will maintain the repository and code from now on; I am doing this independently without discussion with the original owner. The original repository is located on Github at [https://github.com/jag-k/shlink-raycast-extension](Shlink-raycast-extension) and was originally developed by [jag-k](https://github.com/jag-k). 
